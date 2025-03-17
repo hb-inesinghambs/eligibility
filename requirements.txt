@@ -5,7 +5,7 @@ pandas
 shapely
 zipfile
 geemap
-import streamlit
+streamlit
 tempfile
 matplotlib.pyplot
 seaborn
