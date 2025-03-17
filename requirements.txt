@@ -1,1 +1,11 @@
 geopandas
+ee
+os
+pandas
+shapely
+zipfile
+geemap
+import streamlit
+tempfile
+matplotlib.pyplot
+seaborn
